@@ -1,0 +1,43 @@
+body {
+	background-color: #00ffff;
+	font-family: Arial, sans-serif;
+
+}
+
+h1 {
+	color: #ff0000;
+	font-family: 'New Tegomin', serif;
+}
+
+#wrapper {
+	width: 70%;
+	margin: auto;
+	border: 2px #dddddd solid;
+}
+
+header {
+	height: 150px;
+	background-color: #33cccc;
+	padding: 10px;
+	background-image: url(images/background.jpg);
+	color: #cccccc;
+}
+
+section {
+	height: auto;
+	background-color: #ffffff;
+	padding: 10px;
+}
+
+.right {
+	float: right;
+}
+
+.left {
+	float: left;
+}
+
+.clear {
+	clear: both;
+}
+
